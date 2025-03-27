@@ -1,0 +1,300 @@
+{
+  "originUrl": "https://www.commvault.com/",
+  "urls": [
+    {
+      "url": "https://www.commvault.com/",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/79486-2",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/global-goals",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/anna-griffin",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/brian-brockway",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/danielle-sheer",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/gary-merrill",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/jen-dirico",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/john-zangardi",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/martha-delehanty",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/melissa-hathaway",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/nancy-wang",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/poojan-kumar",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/pranay-ahlawat",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/rajiv-kottomtharayil",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/roland-cloutier",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/sanjay-mirchandani",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/sarv-saravanan",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/leadership/shawn-henry",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/about-us/our-values",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/active-directory",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/air-gap-protect",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/auto-recovery",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/backup-and-recovery",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/capabilities-a-to-z",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/cleanroom-recovery",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/cloud-map",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/cloud-rewind",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/clumio",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/clumio-backtrack",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/clumio-dynamo-db-securevault",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/clumio-s3-securevault",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/command-center",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/compliance",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/database-backup",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/distributed-storage",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/endpoint-backup-and-recovery",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/file-object-and-archive",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/file-object-backup",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/google-workspace",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/government-cloud",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/hyperscale",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/hyperscale/reference-designs",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/avira",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/cyberark",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/darktrace",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/dell-powerprotect-dd",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/entrust",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/microsoft-sentinel",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/netskope",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/palo-alto-networks",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/service-now",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/integrations/wiz",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/kubernetes-backup",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/metallic-ai",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/microsoft-365-backup",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/microsoft-dynamics-365-backup",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/readiness",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/readiness-and-response",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/recovery",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/risk",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/risk-analysis",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/salesforce-backup",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/security-iq",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/threat-scan",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/threatwise",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/vm-backup",
+      "source": "CRAWL"
+    },
+    {
+      "url": "https://www.commvault.com/platform/whats-new",
+      "source": "CRAWL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
