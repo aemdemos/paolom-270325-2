@@ -1,6 +1,6 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--background-color);
+  background-color: #101920;
   width: 100%;
   z-index: 2;
   position: fixed;
@@ -15,9 +15,9 @@ header nav {
   align-items: center;
   gap: 0 24px;
   margin: auto;
-  max-width: 1248px;
+  max-width: 1392px;
   height: var(--nav-height);
-  padding: 0 24px;
+  padding: 0;
   font-family: var(--body-font-family);
 }
 
@@ -35,8 +35,8 @@ header nav[aria-expanded='true'] {
     display: flex;
     justify-content: space-between;
     gap: 0 32px;
-    max-width: 1264px;
-    padding: 0 32px;
+    max-width: 1392px;
+    padding: 35px 18px 0;
   }
 
   header nav[aria-expanded='true'] {
@@ -51,7 +51,9 @@ header nav p {
 }
 
 header nav a:any-link {
-  color: currentcolor;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
 }
 
 /* hamburger */
@@ -145,7 +147,7 @@ header .nav-brand {
 }
 
 header nav .nav-brand img {
-  width: 128px;
+  width: 180px;
   height: auto;
 }
 
@@ -227,6 +229,11 @@ header nav .nav-sections ul > li > ul > li {
   header nav .nav-sections .default-content-wrapper > ul > li {
     flex: 0 1 auto;
     position: relative;
+    background-image: url('data:image/svg+xml,<svg class="menu-item__svg" width="16" height="16" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M13 5.5L8 10.5L3 5.5" stroke="white" stroke-width="1.5"></path></svg>');
+    background-repeat: no-repeat;
+    background-position: right center;
+    padding-right: 20px;
+    margin-right: 10px;
   }
 
   header nav .nav-sections .default-content-wrapper > ul > li > ul {

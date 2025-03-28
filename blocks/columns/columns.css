@@ -24,10 +24,15 @@
     align-items: center;
     flex-direction: unset;
     gap: 24px;
+    align-items: start;
   }
 
   .columns > div > div {
     flex: 1;
     order: unset;
   }
+}
+
+.columns h2 {
+  font-size: 40px;
 }
