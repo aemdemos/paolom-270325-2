@@ -25,3 +25,57 @@
   aspect-ratio: 4 / 3;
   object-fit: cover;
 }
+
+.cards.one {
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.cards.one > ul {
+  display: flex;
+  flex-direction: column;
+}
+
+.cards.one > ul > li {
+  background-color: unset;
+  border: 0;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.cards.one a.button:any-link {
+  background-color: unset;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.cards.three {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.cards.three > ul {
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  grid-gap: 64px;
+}
+
+.cards.three > ul > li {
+  background-color: #f3f4fa;
+}
+
+.cards.three h3 {
+  font-size: 13px;
+  text-decoration: underline;
+  text-transform:uppercase
+}
+
+.cards.three h2 {
+  font-size: 28px;
+  font-weight: 400;
+}
+
+.cards.three .button-container a:any-link {
+  background-color: unset;
+  color: #000;
+}
