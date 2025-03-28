@@ -36,3 +36,13 @@
 .columns h2 {
   font-size: 40px;
 }
+
+.columns.logos {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.columns.logos img {
+  height: 118px;
+  width: auto;
+}

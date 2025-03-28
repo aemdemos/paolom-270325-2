@@ -141,7 +141,7 @@ body {
   color: var(--text-color);
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
-  line-height: 135%;
+  line-height: 150%;
 }
 
 body.appear {
@@ -297,6 +297,10 @@ main img {
 /* sections */
 main>.section {
   margin: 40px 0;
+}
+
+main>.section:last-child {
+  margin-bottom: 0;
 }
 
 main>.section>div {
