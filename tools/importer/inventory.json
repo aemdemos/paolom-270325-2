@@ -3,7 +3,434 @@
     {
       "name": "nav",
       "path": "/nav",
-      "instances": []
+      "boxes": [
+        {
+          "url": "https://www.commvault.com/about-us/leadership/martha-delehanty",
+          "urlHash": "006c349fe1400a2c594b0b6d602c4f3f7ea7eb84",
+          "uuid": "006c349f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/cloud-rewind",
+          "urlHash": "02bb624ad8409c3ffe442cc3927f3a7766363ddc",
+          "uuid": "02bb624a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/auto-recovery",
+          "urlHash": "04304aab7cdbd31f93397cc68ae8e79543e746d5",
+          "uuid": "04304aab-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/hyperscale",
+          "urlHash": "088da802a1be86d1e7044cea58494cb0d6821123",
+          "uuid": "088da802-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/john-zangardi",
+          "urlHash": "0a3979a5dd381ea468d5e6e4280ce3c512bf265f",
+          "uuid": "0a3979a5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/database-backup",
+          "urlHash": "109cd65ab519b40493ca030f7169aad6f2224b5b",
+          "uuid": "109cd65a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/active-directory",
+          "urlHash": "10a2f568fee8dfb9a6b6e7032b5605a8b1c043e3",
+          "uuid": "10a2f568-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/risk",
+          "urlHash": "199c2f74545eeb757ebb5ad999e8338c0fcad738",
+          "uuid": "199c2f74-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/entrust",
+          "urlHash": "1cf741c32d7d6e90450e68d1659749a119810dcd",
+          "uuid": "1cf741c3-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/cloud-map",
+          "urlHash": "206b6e6f57cf41a2489eaa5683d9b47dd5b486b4",
+          "uuid": "206b6e6f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/cyberark",
+          "urlHash": "22542d3a57d1ceb213c97f0093dffe335e608322",
+          "uuid": "22542d3a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/gary-merrill",
+          "urlHash": "294ed24257c442da843ebb609e4acb769e98ec71",
+          "uuid": "294ed242-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us",
+          "urlHash": "2c8b2b8b72232f234685313c21f5b367af0b328e",
+          "uuid": "2c8b2b8b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/risk-analysis",
+          "urlHash": "2e0ad0d7b1d0265309452d4003192b8fefab2e10",
+          "uuid": "2e0ad0d7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/air-gap-protect",
+          "urlHash": "35a7fadc82b73721a7af6a440b94c7efba6db180",
+          "uuid": "35a7fadc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/hyperscale/reference-designs",
+          "urlHash": "36f72993babe4597d67413d2c4024739477f4904",
+          "uuid": "36f72993-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/poojan-kumar",
+          "urlHash": "3b67cf3b5e27e04efa0ada821dba42e60029bbb5",
+          "uuid": "3b67cf3b-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/dell-powerprotect-dd",
+          "urlHash": "3dbb2edc91a8b839b8fbfa2525854b38f9208729",
+          "uuid": "3dbb2edc-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform",
+          "urlHash": "3e2a4992f21ff84d8550f9cdd3d68e717bfefe46",
+          "uuid": "3e2a4992-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/global-goals",
+          "urlHash": "3f352e72bb01dda4b7352077d666e50ace7eca28",
+          "uuid": "3f352e72-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/pranay-ahlawat",
+          "urlHash": "3f437b52ccde60e1827004a510b38464a5a22a38",
+          "uuid": "3f437b52-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/government-cloud",
+          "urlHash": "47181b5a28ee66b61afc913fa5ba144a0506ef3a",
+          "uuid": "47181b5a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/cleanroom-recovery",
+          "urlHash": "4a9e7215faa06a97b3665c9b0d2736d05be75358",
+          "uuid": "4a9e7215-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/threat-scan",
+          "urlHash": "4e584bbdd66296b2341293cca48ab507b4457815",
+          "uuid": "4e584bbd-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/nancy-wang",
+          "urlHash": "4f912091ec88707660277988d20691c816b8f653",
+          "uuid": "4f912091-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/shawn-henry",
+          "urlHash": "521d4309f40ca6f57e5e66be43906dd6530f5e8d",
+          "uuid": "521d4309-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/anna-griffin",
+          "urlHash": "557516f168599f11d2fc796d47047f2112336e41",
+          "uuid": "557516f1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/wiz",
+          "urlHash": "58418bdf552f151c3e7c52ef86e650aff830ee69",
+          "uuid": "58418bdf-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/service-now",
+          "urlHash": "5a21f6f167d3a0d25cae1153d744af07d7184ce2",
+          "uuid": "5a21f6f1-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/google-workspace",
+          "urlHash": "5a5f764164802dae93683717f99cf6813e2c670e",
+          "uuid": "5a5f7641-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/melissa-hathaway",
+          "urlHash": "60a0ad37235fed2dba1a241cada09a2d0ab10785",
+          "uuid": "60a0ad37-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/darktrace",
+          "urlHash": "60bf41e6891f94ff97e4304163effabf92d68efe",
+          "uuid": "60bf41e6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/command-center",
+          "urlHash": "64f85597be707fc0f431537f18281f6b8fc052d2",
+          "uuid": "64f85597-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/compliance",
+          "urlHash": "711b2267e413f8a370e128d56a43ace192fa2f5f",
+          "uuid": "711b2267-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/79486-2",
+          "urlHash": "718f30d8676591bb277ba25d846587d3fcc70eab",
+          "uuid": "718f30d8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/palo-alto-networks",
+          "urlHash": "7689f770e1ad7e0b383907e38aeda437fc9cd595",
+          "uuid": "7689f770-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/netskope",
+          "urlHash": "7b29ce9ee0144ee56a2d3c422d2dc6f1433ca5e9",
+          "uuid": "7b29ce9e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/danielle-sheer",
+          "urlHash": "7dd8979644f8849d84a6aa04e8140dac87eeda62",
+          "uuid": "7dd89796-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/backup-and-recovery",
+          "urlHash": "7e3ee88f07ac2cdc87273eb375072f93bc5b4957",
+          "uuid": "7e3ee88f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/sarv-saravanan",
+          "urlHash": "87ebc90ad6b8a444b4964e75217fbd3bb3487a1d",
+          "uuid": "87ebc90a-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/capabilities-a-to-z",
+          "urlHash": "8c3501f75458b1d274e1344d6b09c537c651a531",
+          "uuid": "8c3501f7-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/security-iq",
+          "urlHash": "953ca2282e14907231f7a9085b63c7f5e707ba0f",
+          "uuid": "953ca228-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/our-values",
+          "urlHash": "9d664fdaa0d430deca454fbc181e96af36ec8e6c",
+          "uuid": "9d664fda-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/whats-new",
+          "urlHash": "9fcf1c55d4470ec1797d01751fa4178f86c3020e",
+          "uuid": "9fcf1c55-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/jen-dirico",
+          "urlHash": "a2128e6c06b8b00a3cbafb3154d7927ce5b84a96",
+          "uuid": "a2128e6c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/",
+          "urlHash": "a32245d4c037069228336fbaef38f0118d631d76",
+          "uuid": "a32245d4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/readiness-and-response",
+          "urlHash": "a9a0bcb0f9af7e75330c2b543424a9104e85db5a",
+          "uuid": "a9a0bcb0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/clumio",
+          "urlHash": "ac54daa94e0cef7f482e32ccc8b19ddf53431369",
+          "uuid": "ac54daa9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/threatwise",
+          "urlHash": "afe0c0a885eb31ad912936746cddc64a06466a4f",
+          "uuid": "afe0c0a8-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/file-object-backup",
+          "urlHash": "b20017d6376a974ba9f34cb1ca1866e5bd016d0f",
+          "uuid": "b20017d6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/rajiv-kottomtharayil",
+          "urlHash": "b8dade0fa7f3056e70599f78b528a7aff9f72739",
+          "uuid": "b8dade0f-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/microsoft-sentinel",
+          "urlHash": "bb5a097e7137f132b97a0f969dd6c156d8ad5445",
+          "uuid": "bb5a097e-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/clumio-dynamo-db-securevault",
+          "urlHash": "bbe91739a19a98f6570d04593115ad2e215c323b",
+          "uuid": "bbe91739-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/recovery",
+          "urlHash": "bfab7f4cf6572debc3b985edcdc29173e1a08d0f",
+          "uuid": "bfab7f4c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/integrations/avira",
+          "urlHash": "bfe985bea717a26338d442653e98c8f696eca0c1",
+          "uuid": "bfe985be-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/distributed-storage",
+          "urlHash": "c23d35f4576844d32c1f7856568d731e7680013d",
+          "uuid": "c23d35f4-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/readiness",
+          "urlHash": "c3c6c640159375889047ff9687116d803e7e8293",
+          "uuid": "c3c6c640-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/clumio-s3-securevault",
+          "urlHash": "c4d0a6ca76e51f69fc12f92687afa1657a70caf5",
+          "uuid": "c4d0a6ca-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/sanjay-mirchandani",
+          "urlHash": "c70586b5d73752274bf209c844c677fc4bc0cd30",
+          "uuid": "c70586b5-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/brian-brockway",
+          "urlHash": "cbe9ce97c12adc1068fed6580cf1c2c515818969",
+          "uuid": "cbe9ce97-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/kubernetes-backup",
+          "urlHash": "cd2c1ea694036b8ff25c31b23d19e334104bdb99",
+          "uuid": "cd2c1ea6-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/endpoint-backup-and-recovery",
+          "urlHash": "cd31d72787a8a16be4736d473e381217c58ab1b4",
+          "uuid": "cd31d727-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/clumio-backtrack",
+          "urlHash": "ce29e022bc5cac75f4565db77683da8d683bd002",
+          "uuid": "ce29e022-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/microsoft-365-backup",
+          "urlHash": "d6fb407cd5b62193d1ad3d5d869ad8b4788e0308",
+          "uuid": "d6fb407c-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/microsoft-dynamics-365-backup",
+          "urlHash": "dd48c9303aff507839c2885eebd6702b7a678f56",
+          "uuid": "dd48c930-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/file-object-and-archive",
+          "urlHash": "df6c6cf0b39faf35289f1d9ab295ee66062d28c0",
+          "uuid": "df6c6cf0-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/vm-backup",
+          "urlHash": "ea555318ba4e6a430b02529f8413683173a8457d",
+          "uuid": "ea555318-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership/roland-cloutier",
+          "urlHash": "ec096bfbe32e66ca8a942f8ca3988c00c7bbd498",
+          "uuid": "ec096bfb-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/metallic-ai",
+          "urlHash": "f29c3cd22f986830258c8eb001cf73bef6f630ad",
+          "uuid": "f29c3cd2-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/platform/salesforce-backup",
+          "urlHash": "f3ade5b9abd01ca3790d5d37df47858d055dbb0a",
+          "uuid": "f3ade5b9-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.commvault.com/about-us/leadership",
+          "urlHash": "f608a1dfe8d1c39fc45092d26fb82d06c440f2a9",
+          "uuid": "f608a1df-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        }
+      ]
     },
     {
       "name": "footer",
