@@ -3,7 +3,7 @@
     {
       "name": "nav",
       "path": "/nav",
-      "boxes": [
+      "instances": [
         {
           "url": "https://www.commvault.com/about-us/leadership/martha-delehanty",
           "urlHash": "006c349fe1400a2c594b0b6d602c4f3f7ea7eb84",
